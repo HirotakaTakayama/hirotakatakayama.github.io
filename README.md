@@ -12,6 +12,7 @@ Also, hopefully you are interested in trying to use my Android Apps 😄
 
 Developed Android Apps:
 - Simple QR Reader (Released on May 1st, 2023): https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.simpleqrreader
-This app scan QR code quickly and easily. It is free and easy-to-use and friendly for smartphone users.
+
+  This app scan QR code quickly and easily. It is free and easy-to-use and friendly for smartphone users.
 
 
