@@ -11,11 +11,11 @@ Feel free to check out my repositories to see some of my projects.
 Also, hopefully you are interested in trying to use my Android Apps 😄
 
 Developed Android Apps:
-- Prime Number Judgment (Released on May 17th, 2023): https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.primenumberjudgment
+- [Prime Number Judgment](https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.primenumberjudgment) (Released on May 17th, 2023)
 
   This app checks if the entered integer is a prime number. It also contains features of showing neighboring primes and discovering primes from the entered date.
 
-- Simple QR Reader (Released on May 1st, 2023): https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.simpleqrreader
+- [Simple QR Reader](https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.simpleqrreader) (Released on May 1st, 2023)
 
   This app scan QR code quickly and easily. It is free and easy-to-use and friendly for smartphone users.
 
