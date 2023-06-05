@@ -19,4 +19,5 @@ Developed Android Apps:
 
   This app scan QR code quickly and easily. It is free and easy-to-use and friendly for smartphone users.
 
+[My technical blog (written in Japanese)](https://androidappsadvices.blogspot.com/)
 
