@@ -11,6 +11,10 @@ Feel free to check out my repositories to see some of my projects.
 Also, hopefully you are interested in trying to use my Android Apps 😄
 
 Developed Android Apps:
+- [DayChecker](https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.daychecker) (Released on Jun 5th, 2023)
+
+  This app checks the day and date based on a given date or the number of days. 
+
 - [Prime Number Judgment](https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.primenumberjudgment) (Released on May 17th, 2023)
 
   This app checks if the entered integer is a prime number. It also contains features of showing neighboring primes and discovering primes from the entered date.
