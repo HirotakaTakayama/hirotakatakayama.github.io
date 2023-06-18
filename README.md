@@ -8,7 +8,7 @@ I enjoy learning new skills and languages, and currently, I'm focusing on improv
 
 Feel free to check out my repositories to see some of my projects. 
 
-Also, hopefully you are interested in trying to use my Android Apps 😄
+Also, hopefully, you are interested in trying to use my Android Apps 😄
 
 Developed Android Apps:
 - [DayChecker](https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.daychecker) (Released on Jun 5th, 2023)
@@ -17,11 +17,14 @@ Developed Android Apps:
 
 - [Prime Number Judgment](https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.primenumberjudgment) (Released on May 17th, 2023)
 
-  This app checks if the entered integer is a prime number. It also contains features of showing neighboring primes and discovering primes from the entered date.
+  This app checks if the entered integer is a prime number. It also contains features showing neighboring primes and discovering them from the entered date.
 
 - [Simple QR Reader](https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.simpleqrreader) (Released on May 1st, 2023)
 
   This app scan QR code quickly and easily. It is free and easy-to-use and friendly for smartphone users.
 
-[My technical blog (written in Japanese)](https://androidappsadvices.blogspot.com/)
+My blog and social media accounts:
+
+- [My technical blog (written in Japanese)](https://androidappsadvices.blogspot.com/)
+- [Linkedin](https://www.linkedin.com/in/hirotaka-takayama/)
 
