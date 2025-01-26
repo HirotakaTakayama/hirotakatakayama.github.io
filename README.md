@@ -8,20 +8,22 @@ I enjoy learning new skills and languages, and currently, I'm focusing on improv
 
 Feel free to check out my repositories to see some of my projects. 
 
-Also, hopefully, you are interested in trying to use my Android Apps 😄
+Also, hopefully, you are interested in trying to use my Android Apps below 😄
 
 Developed Android Apps:
+- [Prime Number Judgment](https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.primenumberjudgment) (Released on May 17th, 2023. Updated many times.)
+
+  This app checks if the entered integer is a prime number. It also contains neighboring primes search & date-based search features.
+
+  The latest version is v1.4.2, updated on 24th January, 2025.
+  
 - [DayChecker](https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.daychecker) (Released on Jun 5th, 2023)
 
   This app checks the day and date based on a given date or the number of days. 
 
-- [Prime Number Judgment](https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.primenumberjudgment) (Released on May 17th, 2023)
+- [Simple QR Reader](https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.simpleqrreader) (Released on May 1st, 2023, but now it is not disclosed.)
 
-  This app checks if the entered integer is a prime number. It also contains features showing neighboring primes and discovering them from the entered date.
-
-- [Simple QR Reader](https://play.google.com/store/apps/details?id=io.github.hirotakatakayama.simpleqrreader) (Released on May 1st, 2023)
-
-  This app scan QR code quickly and easily. It is free and easy-to-use and friendly for smartphone users.
+  This app scans QR codes quickly and easily. It is free, easy to use, and friendly for smartphone users.
 
 My blog and social media accounts:
 
