@@ -54,7 +54,7 @@ I do not knowingly collect personally identifiable information from children und
 
 **Legal Basis for Processing (GDPR aligned)**
 
-I do not knowingly collect personally identifiable information for users located in the European Economic Area (EEA) if those users decline the consent of data collections. Users may withdraw consent at any time through in-app settings.
+I do not knowingly collect personally identifiable information for users located in the European Economic Area (EEA), UK, and Switzerland if those users decline the consent of data collections. Users may withdraw consent at any time through in-app settings.
 
 **Changes to This Privacy Policy**
 
